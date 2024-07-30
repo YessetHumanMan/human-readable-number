@@ -1,4 +1,4 @@
-module.exports = function toReadable (number) {
+
   module.exports = function toReadable(number) {
     const ones = [
         "zero",
@@ -57,4 +57,4 @@ module.exports = function toReadable (number) {
         );
     }
 };
-}
+
